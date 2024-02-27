@@ -4,4 +4,4 @@ It takes any sized matrix (m x n), where "m" is the number of rows and "n" is th
 
 This is my first project!
 
-NOTE: So far, unless updated, it can take in any whole, real numbers i.e. it can not take in fractions at the moment. 
+NOTE: So far, unless updated, it can take in any whole numbers i.e. it can not take in fractions at the moment. 
